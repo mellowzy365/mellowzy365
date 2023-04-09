@@ -1,4 +1,4 @@
-### Just Newbie want be to a pro coder
+### Just Newbie want to be a pro coder
 Learning C++, C#, Pawn
 My First mod at repository now for Counter Strike 1.6
 
