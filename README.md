@@ -2,7 +2,7 @@
 
 Learning C++, C#, Pawn
 
-My First mod at repository now for Counter Strike 1.6
+Newbie
 
 
 
