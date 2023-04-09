@@ -2,6 +2,11 @@
 Learning C++, C#, Pawn
 My First mod at repository now for Counter Strike 1.6
 
+
+## 🌐Feel free to follow
+ [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](discordapp.com/users/239020411138998273) 
+ 
+ 
 <!--
 **mellowzy365/mellowzy365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
