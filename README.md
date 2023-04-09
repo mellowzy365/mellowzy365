@@ -1,4 +1,6 @@
-### Hi there 👋
+### Just Newbie want be to a pro coder
+Learning C++, C#, Pawn
+My First mod at repository now for Counter Strike 1.6
 
 <!--
 **mellowzy365/mellowzy365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
