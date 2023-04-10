@@ -15,7 +15,7 @@
 
 - AMXMODX International
 
-- CounterStrike 1.6 Mod
+- CounterStrike 1.6 Mod Indonesia
 
 
 
