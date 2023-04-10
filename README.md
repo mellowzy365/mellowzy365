@@ -1,8 +1,10 @@
-### Just Newbie want to be a pro coder
+### About me? 
 
-Learning C++, C#, Pawn
 
-Newbie
+• Nothing
+• Newbie
+• Learning C++, C#
+
 
 
 
