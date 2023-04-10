@@ -3,13 +3,31 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+### 🔭 I’m currently working on Project :
 
 
-• Make Something Interesting
 
-• Informatics Engineering
+- Web Programming
 
-• Work from Home
+- Mobile Programming
+
+- Rajagame Project Indonesia
+
+- AMXMODX International
+
+- CounterStrike 1.6 Mod
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
