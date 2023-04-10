@@ -5,6 +5,8 @@
 
 • Newbie
 
+• Love code
+
 • Informatics Engineering
 
 • Work from Home
